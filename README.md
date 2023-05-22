@@ -1,2 +1,2 @@
 # Projets-React-native
-Ce dossier contient des application développeur en utilisant react native
+Ce dossier contient des applications développées en utilisant react native.
